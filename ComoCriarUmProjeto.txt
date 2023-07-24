@@ -1,0 +1,14 @@
+- Dotnet comado para usar os comandos do dotnet
+
+# Para criar um projeto do dotnet
+
+dotnet new console -n NomeDoProjeto  -f net6.0 --use-program-main
+
+- new para novos projetos
+
+- especificar o tipo do projeto (api,blazor,console)
+
+
+- "-n" é o nome 
+
+- "-f" é a versão do (versao do framework) projeto (net6.0,net7.0,net8.0)
